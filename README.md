@@ -1,16 +1,33 @@
-## Hi there 👋
+# rblurrr
 
-<!--
-**rblurrr/rblurrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer & AI Engineer** based in New Braunfels, TX
 
-Here are some ideas to get you started:
+I build web applications, AI agents, and automation tools for real-world business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Work With
+
+**Languages:** JavaScript / Node.js · TypeScript · Python · SQL · HTML & CSS
+
+**Frontend:** React · Next.js · Tailwind CSS
+
+**Backend & Cloud:** Supabase · AWS · Hostinger · REST APIs
+
+**AI & Automation:** AI phone agents · LLM integration · Prompt engineering · Discord bots
+
+**Other:** Square API · Salesforce · GitHub Actions
+
+---
+
+## Currently Building
+
+- Event management platform (TypeScript / full-stack)
+- AI-powered automation tools for business workflows
+- Studying for AWS AI Practitioner & Salesforce certifications
+
+---
+
+## Get In Touch
+
+Open to freelance projects and collaborations. Reach out if you want to build something.
