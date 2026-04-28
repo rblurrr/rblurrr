@@ -1,6 +1,6 @@
 # rblurrr
 
-**Full-Stack Developer & AI Engineer** based in New Braunfels, TX
+**Full-Stack Developer & AI Engineer** based in New Braunfels, TX · [rblurrr.cloud](https://rblurrr.cloud)
 
 I build web applications, AI agents, and automation tools for real-world business problems.
 
@@ -31,3 +31,5 @@ I build web applications, AI agents, and automation tools for real-world busines
 ## Get In Touch
 
 Open to freelance projects and collaborations. Reach out if you want to build something.
+
+**Website:** [rblurrr.cloud](https://rblurrr.cloud)
